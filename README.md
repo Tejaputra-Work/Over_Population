@@ -2,8 +2,9 @@ Over Population
 Welcome to Over Population!
 This game was developed as part of a final thesis project at Tarumanagara University. It is designed for Android devices.
 
-Creator: Tejaputra (Computer Science - Game Development at Tarumanagara University)
-**Student ID: 535180144
+Creator: Tejaputra (Computer Science - Game Development at Tarumanagara University)  
+Student ID: 535180144
+
 
 Contents of This Repository:
 - Source Code (with library partitions in .rar format)
