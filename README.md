@@ -1,6 +1,8 @@
 Over Population
 Welcome to Over Population!
 This game was developed as part of a final thesis project at Tarumanagara University. It is designed for Android devices.
+📺 Watch the Over Population game trailer here:  
+[![Watch the Trailer](https://img.youtube.com/vi/bfxNrc4Nrmc/0.jpg)](https://youtu.be/bfxNrc4Nrmc)
 
 Creator: Tejaputra (Computer Science - Game Development at Tarumanagara University)  
 Student ID: 535180144
